@@ -62,7 +62,9 @@ terraform-aws-vpc-ec2/
 │── .gitignore
 │── README.md
 
-⚙️ Prerequisites
+```
+
+## ⚙️ Prerequisites
 
 Before running this project, ensure you have:
 
@@ -74,7 +76,7 @@ Terraform installed (v1.3+ recommended)
 
 IAM user with sufficient permissions (VPC, EC2, IAM, Networking)
 
-🛠️ How to Use This Project
+## 🛠️ How to Use This Project
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/terraform-aws-vpc-ec2.git
 cd terraform-aws-vpc-ec2
@@ -116,7 +118,7 @@ To avoid AWS charges:
 
 terraform destroy
 
-🔐 Security Best Practices Followed
+# 🔐 Security Best Practices Followed
 
 No AWS credentials committed to GitHub
 
@@ -126,7 +128,7 @@ Modular design for reusability
 
 Security Groups scoped to minimum required access
 
-📌 Use Cases
+## 📌 Use Cases
 
 Learning Terraform and AWS networking
 
@@ -136,18 +138,6 @@ Infrastructure as Code practice
 
 Base infrastructure for future expansion (ALB, Auto Scaling, RDS)
 
-🔮 Future Enhancements
-
-Add Application Load Balancer (ALB)
-
-Auto Scaling Group
-
-Remote backend using S3 and DynamoDB
-
-NAT Gateway for private subnets
-
-CI/CD pipeline integration
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Uddhav Hon
