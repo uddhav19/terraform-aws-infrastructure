@@ -1,5 +1,5 @@
 # terraform-aws-infrastructure
-AWS infrastructure creation using terraform ( AWS network and EC2 inatnce)
+AWS infrastructure creation using terraform ( AWS network and EC2 instance)
 
 This project demonstrates the use of **Terraform (Infrastructure as Code)** to provision a complete **AWS infrastructure** in a modular and reusable way.  
 The infrastructure includes networking components and compute resources deployed securely within a custom VPC.
