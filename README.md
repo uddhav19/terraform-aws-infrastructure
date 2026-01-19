@@ -78,8 +78,7 @@ IAM user with sufficient permissions (VPC, EC2, IAM, Networking)
 
 ## 🛠️ How to Use This Project
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/terraform-aws-vpc-ec2.git
-cd terraform-aws-vpc-ec2
+git clone https://github.com/uddhav19/terraform-aws-infrastructure.git
 
 2️⃣ Configure Variables
 
