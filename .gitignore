@@ -3,7 +3,8 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
-*.hcl
+terraform.lock.hcl
+
 
 # SSH Keys
 *.pem
